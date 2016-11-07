@@ -78,7 +78,7 @@ See [PlexEmail][plexemurl] for more information on configuration.
 
 * image version number
 
-`docker inspect -f '{{ index .Config.Labels "build_version" }}' linuxserver/plexemail`
+`docker inspect -f '{{ index .Config.Labels "build_version" }}' lsioarmhf/plexemail`
 
 ## Versions
 
