@@ -60,7 +60,9 @@ In this instance `PUID=1001` and `PGID=1001`. To find yours use `id user` as bel
     uid=1001(dockeruser) gid=1001(dockergroup) groups=1001(dockergroup)
 ```
 
-## Setting up the application 
+## Setting up the application
+
+`IMPORTANT... THIS IS THE ARMHF VERSION`
 
 Edit the config.conf in the /config folder.
 
