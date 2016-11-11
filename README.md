@@ -84,4 +84,5 @@ See [PlexEmail][plexemurl] for more information on configuration.
 
 ## Versions
 
++ **11.11.16:** Make web files persistent
 + **07.11.16:** Initial Release 
